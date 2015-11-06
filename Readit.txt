@@ -1,5 +1,5 @@
 This is a description of the project.
 DESCRIPTION:
-1)
+1).
 2)
 3)
